@@ -1,2 +1,1 @@
-# TinDog
-Practice Web Designing using HTML5, CSS3 and Bootstrap 4
+TinDog Starting Files
